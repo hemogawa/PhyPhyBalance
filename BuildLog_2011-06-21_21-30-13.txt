@@ -1,0 +1,12 @@
+
+プロジェクト BaByCap の ビルド BaByCap（構成 Debug）
+
+CompileC build/BaByCap.build/Debug/BaByCap.build/Objects-normal/x86_64/main.o main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
+cd /Users/kikugawamariko/XCodeProjects/BabyCap
+setenv LANG en_US.US-ASCII
+/Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/BabyCap/build/BaByCap.build/Debug/BaByCap.build/BaByCap-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/BabyCap/build/BaByCap.build/Debug/BaByCap.build/BaByCap-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/BabyCap/build/BaByCap.build/Debug/BaByCap.build/BaByCap-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/BabyCap/build/BaByCap.build/Debug/BaByCap.build/BaByCap-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/BabyCap/build/Debug -I/Users/kikugawamariko/XCodeProjects/BabyCap/build/Debug/include -I/usr/local/include/opencv -I/Users/kikugawamariko/XCodeProjects/BabyCap/build/BaByCap.build/Debug/BaByCap.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/BabyCap/build/BaByCap.build/Debug/BaByCap.build/DerivedSources -c /Users/kikugawamariko/XCodeProjects/BabyCap/main.cpp -o /Users/kikugawamariko/XCodeProjects/BabyCap/build/BaByCap.build/Debug/BaByCap.build/Objects-normal/x86_64/main.o
+
+i686-apple-darwin10-gcc-4.2.1: んぷｔ: No such file or directory
+/Users/kikugawamariko/XCodeProjects/BabyCap/main.cpp:16: warning: deprecated conversion from string constant to 'char*'
+Command /Developer/usr/bin/gcc-4.2 failed with exit code 1
+

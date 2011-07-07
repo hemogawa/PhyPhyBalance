@@ -1,0 +1,186 @@
+TPhyPhyBalance
+v7
+r0
+t330712950.176317
+cCheck dependencies
+cProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Info.plist PhyPhyBalance-Info.plist
+cCopyStringsFile /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhyPhyBalance_Prefix-ategezezhlncuaaclwnytfnwxryw/PhyPhyBalance_Prefix.pch.gch PhyPhyBalance_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/PhyPhyBalanceAppDelegate.o /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004DB7BB0E00000000000000EE
+t1303886606
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/English.lproj/InfoPlist.strings
+c000000004E05F0AF000000000000002D
+t1309012143
+s45
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/English.lproj/MainMenu.xib
+c000000004E05F1A9000000000002EBC1
+t1309012393
+s191425
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.h
+c000000004E060FED00000000000001E3
+t1309020141
+s483
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m
+c000000004E05F0AF00000000000001A3
+t1309012143
+s419
+i"PhyPhyBalanceAppDelegate.h"
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalance_Prefix.pch
+c000000004E05F0AF000000000000009D
+t1309012143
+s157
+i<Cocoa/Cocoa.h>
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app
+t2
+s0
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Info.plist
+t1309020142
+s1302
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/MacOS/PhyPhyBalance
+t2
+s0
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/PkgInfo
+t1309020142
+s8
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1309020143
+s92
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Resources/English.lproj/MainMenu.nib
+t1309020144
+s36922
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/PhyPhyBalance.LinkFileList
+c000000004E060FEE000000000000011A
+t1309020142
+s282
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/PhyPhyBalanceAppDelegate.o
+t2
+s0
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/main.o
+t1309020150
+s5016
+
+N/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/main.m
+c000000004E05F0AF000000000000011E
+t1309012143
+s286
+i<Cocoa/Cocoa.h>
+
+N/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhyPhyBalance_Prefix-ategezezhlncuaaclwnytfnwxryw/PhyPhyBalance_Prefix.pch.gch
+t1309020149
+s54306576
+
+NPhyPhyBalance-Info.plist
+c000000004E05F0AF00000000000003EA
+t1309012143
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies330712942#330712942#0(0"0(0#1#0"2513076880#0"0#
+
+CCompileC build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/PhyPhyBalanceAppDelegate.o /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330712949.834457
+e330712950.053385
+r0
+xCompileC
+xbuild/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/PhyPhyBalanceAppDelegate.o
+x/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m:9:
+o/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.h:15: error: statically allocated instance of Objective-C class 'NSString'
+o/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m:19: warning: incomplete implementation of class 'PhyPhyBalanceAppDelegate'
+o/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m:19: warning: method definition for '-submit:' not found
+lSLF07#2@84"Compile /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m330712949#330712950#0(537"In file included from /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m:9:/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.h:15: error: statically allocated instance of Objective-C class 'NSString'/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m:19: warning: incomplete implementation of class 'PhyPhyBalanceAppDelegate'/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m:19: warning: method definition for '-submit:' not found3(4@61"Statically allocated instance of Objective-C class 'NSString'330712949#102#150#2(7@98"In file included from /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m330712949#4294967295#0#0(6@76"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m330704943#9#0#9#0#0"0(13@141"Statically allocated instance of Objective-C class 'NSString' in /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.h330712949#4294967295#0#0(6@76"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.h330712941#15#0#15#0#0"0(6@76"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.h330712941#15#0#15#0#0"0(22@61"Incomplete implementation of class 'PhyPhyBalanceAppDelegate'330712949#252#152#0(6@76"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m330704943#19#0#19#0#38"incomplete implementation of class '*'0(22@42"Method definition for '-submit:' not found330712949#404#133#0(6@76"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m330704943#19#0#19#0#35"method definition for '*' not found0(0#0#76"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m2513076880#1731"    cd /Users/kikugawamariko/XCodeProjects/PhyPhyBalance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhyPhyBalance_Prefix-ategezezhlncuaaclwnytfnwxryw/PhyPhyBalance_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalanceAppDelegate.m -o /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/PhyPhyBalanceAppDelegate.o1#
+
+CCompileC build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/main.o /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330712949.833439
+e330712950.176243
+r1
+xCompileC
+xbuild/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/main.o
+x/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/main.m330712949#330712950#0(0"0(0#0#56"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/main.m2513076880#1691"    cd /Users/kikugawamariko/XCodeProjects/PhyPhyBalance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/DerivedSources -include /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhyPhyBalance_Prefix-ategezezhlncuaaclwnytfnwxryw/PhyPhyBalance_Prefix.pch -c /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/main.m -o /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/English.lproj/MainMenu.xib
+s330712942.435838
+e330712944.582904
+r1
+xCompileXIB
+x/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib330712942#330712944#0(0"0(0#0#76"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/English.lproj/MainMenu.xib2513076880#403"    cd /Users/kikugawamariko/XCodeProjects/PhyPhyBalance    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Resources/English.lproj/MainMenu.nib /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s330712942.413478
+e330712943.740347
+r1
+xCopyStringsFile
+x/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings330712942#330712943#0(0"0(0#0#81"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/English.lproj/InfoPlist.strings2513076880#393"    cd /Users/kikugawamariko/XCodeProjects/PhyPhyBalance    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Resources/English.lproj0#
+
+CLd /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/MacOS/PhyPhyBalance normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Info.plist PhyPhyBalance-Info.plist
+s330712942.321676
+e330712942.413365
+r1
+xProcessInfoPlistFile
+x/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Info.plist
+xPhyPhyBalance-Info.plist
+lSLF07#2@32"Process PhyPhyBalance-Info.plist330712942#330712942#0(0"0(0#0#74"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalance-Info.plist2513076880#361"    cd /Users/kikugawamariko/XCodeProjects/PhyPhyBalance    builtin-infoPlistUtility PhyPhyBalance-Info.plist -genpkginfo /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhyPhyBalance_Prefix-ategezezhlncuaaclwnytfnwxryw/PhyPhyBalance_Prefix.pch.gch PhyPhyBalance_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s330712944.583093
+e330712949.833274
+r1
+xProcessPCH
+x/var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhyPhyBalance_Prefix-ategezezhlncuaaclwnytfnwxryw/PhyPhyBalance_Prefix.pch.gch
+xPhyPhyBalance_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile PhyPhyBalance_Prefix.pch330712944#330712949#0(0"0(0#0#74"/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalance_Prefix.pch2513076880#1580"    cd /Users/kikugawamariko/XCodeProjects/PhyPhyBalance    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-generated-files.hmap -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-own-target-headers.hmap -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-all-target-headers.hmap -iquote /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/PhyPhyBalance-project-headers.hmap -F/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/include -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/DerivedSources/x86_64 -I/Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/PhyPhyBalance.build/Debug/PhyPhyBalance.build/DerivedSources -c /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/PhyPhyBalance_Prefix.pch -o /var/folders/4P/4Plrz3LXHW032A33CCBvCE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/PhyPhyBalance_Prefix-ategezezhlncuaaclwnytfnwxryw/PhyPhyBalance_Prefix.pch.gch0#
+
+CTouch /Users/kikugawamariko/XCodeProjects/PhyPhyBalance/build/Debug/PhyPhyBalance.app
+r0
+
